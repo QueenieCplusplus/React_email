@@ -1,6 +1,8 @@
 # React_email
 
-# Send Email
+# Send Email 
+
+and render into HTML
 
     / render_email.js
 
