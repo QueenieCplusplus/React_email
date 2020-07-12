@@ -7,7 +7,7 @@ and render into HTML
     / render_email.js
 
     var React = require('react');
-    var Emailer = require('/reactEmailer.js');
+    var Emailer = require('/reactEmailer');
     var s = {};
 
     console.log(
